@@ -1,0 +1,21 @@
+lap_start
+player_sleep 0 1000
+player_sleep 1 2000
+player_sleep 2 3000
+music_start
+music_stop
+lap_stop
+lap_start
+player_sleep 0 1000
+player_sleep 1 2000
+music_start
+music_stop
+lap_stop
+lap_start
+player_sleep 0 1000
+music_start
+music_stop
+lap_stop
+
+
+
